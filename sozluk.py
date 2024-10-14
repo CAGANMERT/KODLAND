@@ -26,4 +26,4 @@ for i in range(5):
     if word in meme_dict.keys():
         print("Anlam:",meme_dict[word])
     else:
-        print("Maalesef bu kelime sözlümüzde mevcut değildir.")
+        print("Maalesef bu kelime sözlümüzde mevcut değildir.") 
